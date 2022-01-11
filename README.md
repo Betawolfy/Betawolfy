@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 je suis en 1ère STI2D dans un lycée d'ile de france.
+
 Je suis dev d'un bot discord. 
+
 j'apprend actuellement à coder un thermostat avec une carte arduino.
 
 [https://github.com/Betawolfy/mesure-temperature-moniteur]
+
 [https://github.com/Betawolfy/Mesure-temperature-arduino]
+
 [https://github.com/Betawolfy/Mesure-temperature-rotary-angle-arduino]
 
 <!--
