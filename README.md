@@ -1,28 +1,32 @@
-### Hi there 👋
+# Hi there 👋
 
-je suis en 1ère STI2D dans un lycée d'ile de france.
+Je suis Vincent, mon pseudonyme est betawolfy. J'ai 16 ans et j'étudie dans un lycée technologique en Ile-de-France.
+Avec [Vexcited](https://github.com/Vexcited) et [RASTIQ](https://github.com/AQRRastiq), je code un bot discord inédit, [Botty](https://github.com/Betawolfy/botty.js). 
 
-Je suis dev d'un bot discord. 
+## mes réseaux: 
 
-j'apprend actuellement à coder un thermostat avec une carte arduino.
+- Discord : !bêta wolfyλ#0911
+- wip...
 
-[https://github.com/Betawolfy/mesure-temperature-moniteur]
+##  Fun fact: 
+- 😈 [Je suis à 100 mètres de ta position et j'approche rapidement. ](https://www.renderforest.com/fr/watch-55793413?quality=0)
+- 🎞  Ma série preféré sur Youtube est: Murder Drones. 
+- 🔭 Je travaille actuellement sur un thermostat sur carte Arduino et un bot discord. 
+- 🌱 J'apprends le Javascript et le C++
+- ⚡ J'aime aider les générations futures. 
 
-[https://github.com/Betawolfy/Mesure-temperature-arduino]
+## Projet d'école actuel: 
 
-[https://github.com/Betawolfy/Mesure-temperature-rotary-angle-arduino]
+[étape 1 : Mesure température](https://github.com/Betawolfy/mesure-temperature-moniteur)
 
-<!--
-**Betawolfy/Betawolfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[étape 2 : on ajoute un écran LCD](https://github.com/Betawolfy/Mesure-temperature-arduino)
 
-Here are some ideas to get you started:
+[étape 3 : ajout d'une partie de consigne partie 1](https://github.com/Betawolfy/Mesure-temperature-rotary-angle-arduino)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projet personnel / collectif extra-scolaire: 
+
+[Botty.js](https://github.com/Betawolfy/botty.js)
+
+[Teko Coffee](https://discord.gg/MP9cbSHK4X)
+
+[wolfy's Mod](https://gitlab.com/betawolfy/wolfymod)
