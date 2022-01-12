@@ -23,6 +23,8 @@ Avec [Vexcited](https://github.com/Vexcited) et [RASTIQ](https://github.com/AQRR
 
 [étape 3 : ajout d'une partie de consigne partie 1](https://github.com/Betawolfy/Mesure-temperature-rotary-angle-arduino)
 
+[étape 4 : L'étape finale: on va le simuler en action](https://github.com/Betawolfy/Mesure-temperature-relay-finale)
+
 ## Projet personnel / collectif extra-scolaire: 
 
 [Botty.js](https://github.com/Betawolfy/botty.js)
