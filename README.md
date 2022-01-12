@@ -21,7 +21,7 @@ Avec [Vexcited](https://github.com/Vexcited) et [RASTIQ](https://github.com/AQRR
 
 [étape 2 : on ajoute un écran LCD](https://github.com/Betawolfy/Mesure-temperature-arduino)
 
-[étape 3 : ajout d'une partie de consigne partie 1](https://github.com/Betawolfy/Mesure-temperature-rotary-angle-arduino)
+[étape 3 : ajout d'une partie de consigne](https://github.com/Betawolfy/Mesure-temperature-rotary-angle-arduino)
 
 [étape 4 : L'étape finale: on va le simuler en action](https://github.com/Betawolfy/Mesure-temperature-relay-finale)
 
