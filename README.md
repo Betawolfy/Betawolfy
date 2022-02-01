@@ -8,7 +8,8 @@ Projet actuel: fait un site pour promouvoir le bolide d'une course inter-lycée.
 ## mes réseaux: 
 
 - Discord : !bêta wolfyλ#0911
-- wip...
+- Twitter : [@BottyStatus](https://twitter.com/BottyStatus)
+- Youtube : [Betawolfy](https://www.youtube.com/channel/UCXfLHVYfkRJrO7G6DdFTFGA)
 
 ##  Fun fact: 
 - 😈 [Je suis à 100 mètres de ta position et j'approche rapidement. ](https://www.renderforest.com/fr/watch-55793413?quality=0)
