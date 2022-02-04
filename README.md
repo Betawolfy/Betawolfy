@@ -22,6 +22,8 @@ Projet actuel: fait un site pour promouvoir le bolide d'une course inter-lycée.
 
 ࿔⸝⸝₊┇- 🌱 J'apprends le Javascript et le C++
 
+࿔⸝⸝₊┇- 🐺 Les loups sont trop mignon >_<
+
 ࿔⸝⸝₊╰・- ⚡ J'aime aider les générations futures. 
 
 ## Projet d'école actuel (terminé, en attente d'un nouveau): 
