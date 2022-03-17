@@ -1,9 +1,9 @@
 # Hi there 👋
 
 Je suis Vincent, mon pseudonyme est betawolfy. J'ai 16 ans et j'étudie dans un lycée technologique en Ile-de-France.
-Avec [Vexcited](https://github.com/Vexcited) et [RASTIQ](https://github.com/AQRRastiq), je code un bot discord inédit, [Botty](https://github.com/Betawolfy/botty.js) 
+Avec [Vexcited](https://github.com/Vexcited) et [RASTIQ](https://github.com/rastiqdev), je code un bot discord inédit, [Botty](https://github.com/Betawolfy/botty.js). 
 
-Projet actuel: fait un site pour promouvoir le bolide d'une course inter-lycée. 
+Projet actuel: Créer des bots. Service de création de bot proposé par [All' Place](https://discord.gg/7fnzVCfN8C)
 
 ## mes réseaux: 
 
