@@ -49,3 +49,5 @@ Projet actuel: Créer des bots. Service de création de bot proposé par [All' P
 [wolfy's Mod](https://gitlab.com/betawolfy/wolfymod)
 
 [Teko Coffee(le meilleur serveur)](https://discord.gg/MP9cbSHK4X) 
+
+> charlotte la beste
