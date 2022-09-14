@@ -16,7 +16,7 @@ Projet actuel: Je n'ai pas vraiment de projet en cours....
 
 ࿔⸝⸝₊┇- 🎞  Ma série preféré sur Youtube est: Murder Drones. 
 
-࿔⸝⸝₊┇- 🔭 Je travaille actuellement sur un thermostat sur carte Arduino et un bot discord.
+࿔⸝⸝₊┇- 🔭 Je travaille actuellement pour faire un "instrument de musique" avec Arduino.
 
 ࿔⸝⸝₊┇- 👮‍♂️ Je suis un très bon modérateur discord et je fais des formulaires de candidatures comme personne. 
 
