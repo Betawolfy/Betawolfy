@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there UwU 👋
 
 Je suis Vincent, mon pseudonyme est betawolfy. J'ai 16 ans et j'étudie dans un lycée technologique en Ile-de-France.
 Avec [Vexcited](https://github.com/Vexcited) et [RASTIQ](https://github.com/rastiqdev), je code un bot discord inédit, [Botty](https://github.com/Betawolfy/botty.js). 
