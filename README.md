@@ -1,18 +1,16 @@
 # Hi there UwU 👋
 
 Je suis Vincent, mon pseudonyme est betawolfy. J'ai 16 ans et j'étudie dans un lycée technologique en Ile-de-France.
-Avec [Vexcited](https://github.com/Vexcited) et [RASTIQ](https://github.com/rastiqdev), je code un bot discord inédit, [Botty](https://github.com/Betawolfy/botty.js). 
-
-Projet actuel: Je n'ai pas vraiment de projet en cours....
+Je code un bot discord inédit, [Botty](https://github.com/Betawolfy/botty.js).
 
 ## mes réseaux: 
 
-- Discord : !bêta wolfyλ#0911
+- Discord : ๑ ﾟ˖ 𑄻 Bêta wolfy⸝⸝☕ ̇ ⊹#0911
 - Twitter : [@BottyStatus](https://twitter.com/BottyStatus)
 - Youtube : [Betawolfy](https://www.youtube.com/channel/UCXfLHVYfkRJrO7G6DdFTFGA)
 
 ##  Fun fact: 
-࿔⸝⸝₊╭・- 😈 [Je suis à 100 mètres de ta position et j'approche rapidement. ](https://www.renderforest.com/fr/watch-55793413?quality=0)
+࿔⸝⸝₊╭・- 😈 [Je suis à 100 mètres de ta position et j'approche rapidement. ](about:blank)
 
 ࿔⸝⸝₊┇- 🎞  Ma série preféré sur Youtube est: Murder Drones. 
 
@@ -20,7 +18,7 @@ Projet actuel: Je n'ai pas vraiment de projet en cours....
 
 ࿔⸝⸝₊┇- 👮‍♂️ Je suis un très bon modérateur discord et je fais des formulaires de candidatures comme personne. 
 
-࿔⸝⸝₊┇- 🌱 J'apprends le Javascript et le C++
+࿔⸝⸝₊┇- 🌱 J'apprends le Javascript et le C++. Je connais Scratch (eww) depuis le CE2.
 
 ࿔⸝⸝₊┇- 🐺 Les loups sont trop mignon >_<
 
@@ -45,9 +43,5 @@ Projet actuel: Je n'ai pas vraiment de projet en cours....
 ## Projet personnel / collectif extra-scolaire: 
 
 [Botty.js](https://github.com/Betawolfy/botty.js)
-
-[wolfy's Mod](https://gitlab.com/betawolfy/wolfymod)
-
-[Teko Coffee(le meilleur serveur)](https://discord.gg/MP9cbSHK4X) 
 
 > charlotte la beste
