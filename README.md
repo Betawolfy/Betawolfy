@@ -8,7 +8,7 @@ Je code un bot discord inédit, [Botty](https://github.com/Betawolfy/botty.js).
 - Discord : betawolfy#0911
 - Twitter : [@BottyStatus](https://twitter.com/BottyStatus)
 - Youtube : [Betawolfy](https://www.youtube.com/channel/UCXfLHVYfkRJrO7G6DdFTFGA)
-- Guilded : [betawolfy](guilded.gg/betawolfy)
+- Guilded : [betawolfy](https://www.guilded.gg/betawolfy)
 
 ##  Fun fact: 
 ࿔⸝⸝₊╭・- 😈 [Je suis à 100 mètres de ta position et j'approche rapidement.](about:blank)
