@@ -16,4 +16,4 @@ Je code un bot discord inédit, [Botty](https://github.com/Betawolfy/botty.js).
 
 [Botty.js](https://github.com/Betawolfy/botty.js)
 
-> Melissa coeur coeur
+> Meli, Merci au revoir, I say good bye bye bye :)
