@@ -5,15 +5,15 @@ Je code un bot discord inédit, [Botty](https://github.com/Betawolfy/botty.js).
 
 ## mes réseaux: 
 
-- Discord : betawolfy#0911
-- Twitter : [@BottyStatus](https://twitter.com/BottyStatus)
-- Youtube : [Betawolfy](https://www.youtube.com/channel/UCXfLHVYfkRJrO7G6DdFTFGA)
+- Discord : betawolfy
+- Twitter : [@BottyStatus](https://twitter.com/betawolfy_)
 - Guilded : [betawolfy](https://www.guilded.gg/betawolfy)
-
-## Projet d'école actuel (terminé, en attente d'un nouveau): 
+- Email : [betawolfy@antivirusunite.com](mailto://betawolfy@antivirusunite.com)
 
 ## Projet personnel / collectif extra-scolaire: 
 
 [Botty.js](https://github.com/Betawolfy/botty.js)
 
-> Meli, Merci au revoir, I say good bye bye bye :)
+[BLCKlist](https://github.com/Betawolfy/BLCKlist)
+
+
