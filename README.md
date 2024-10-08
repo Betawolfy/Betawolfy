@@ -1,19 +1,17 @@
 # Hi there 👋
 
-Je suis Vincent, mon pseudonyme est betawolfy. J'ai 18 ans et j'étudie dans un lycée technologique en Ile-de-France.
-Je code un bot discord inédit, [Botty](https://github.com/Betawolfy/botty.js).
+My name is Wolfy, I'm 19 years old and i like coding!
+I began with Javascript! 
 
-## mes réseaux: 
+Currently working on a full set of lore and regi.
+
+Check out these websites:
+[my site](https://betawolfy.xyz)
+[antivirus unite](https://antivirusunite.com)
 
 - Discord : betawolfy
-- Twitter : [@BottyStatus](https://twitter.com/betawolfy_)
-- Guilded : [betawolfy](https://www.guilded.gg/betawolfy)
+- X (formerly Twitter) : [@betawolfy ](https://twitter.com/betawolfy_)
 - Email : [betawolfy@antivirusunite.com](mailto://betawolfy@antivirusunite.com)
 
-## Projet personnel / collectif extra-scolaire: 
-
-[Botty.js](https://github.com/Betawolfy/botty.js)
-
+Trying to do this for a silly community:
 [BLCKlist](https://github.com/Betawolfy/BLCKlist)
-
-
