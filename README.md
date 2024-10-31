@@ -22,7 +22,7 @@
 
 ---
 
-<h2 align="center">📊﹒ Just flexing with stats x)</h2>
+<h2 align="center">📊﹒ Random dev stats x)</h2>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Betawolfy&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Arizaki's GitHub stats" />
