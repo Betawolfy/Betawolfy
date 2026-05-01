@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://regpoints.fr">PRS (and regpoints)</a></strong> |
+  <strong><a href="https://regpoints.fr">Regpoints</a></strong> |
   <strong><a href="https://distinct-errors.fr">Distinct Errors SMP</a></strong> |
   <strong><a href="https://contagion.betawolfy.xyz">:// Contagion</a></strong>
 </p>
